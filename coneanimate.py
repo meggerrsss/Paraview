@@ -44,3 +44,6 @@ for i in coun:
     Delete(cone1)
     del cone1
 
+#notes
+#there's a True showing up for some reason
+#not animated yet
